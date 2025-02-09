@@ -23,4 +23,7 @@ a{
     div{
         width: 100%;
     }     
+    img{
+        margin: 7%;
+    }    
 }
