@@ -10,9 +10,6 @@ div{
     align-content: center;
     flex-direction: column;
 }
-img{
-    margin: 10%;
-}
 a{
     margin-bottom: 10rem;
     text-align: center;
@@ -23,7 +20,4 @@ a{
     div{
         width: 100%;
     }     
-    img{
-        margin: 7%;
-    }    
 }
